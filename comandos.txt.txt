@@ -1,0 +1,6 @@
+git init
+git config --global user.email "raphaelandrade@edu.unifil.br"
+git config --global user.name "Raphael Cardoso de Andrade"
+git commit -m "first commit"
+git remote add origin https://github.com/Rapha-Andrade/Currículo.git
+git push -u origin main
